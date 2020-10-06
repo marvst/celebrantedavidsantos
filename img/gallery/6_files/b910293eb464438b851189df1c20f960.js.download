@@ -1,0 +1,2473 @@
+window._isPublished = true;window._site = {
+  "globalSections": {
+    "footer": {
+      "id": 1,
+      "layout": {
+        "section": {
+          "id": "bajigu79"
+        }
+      },
+      "category": "footers",
+      "binding": {
+        "title-navigation": "Páginas",
+        "title-social": "Siga-nos",
+        "description": "<font class=\"cstm-fnt\" style=\"font-size: 70.01%;\">O Celebrante Humanista não é necessariamente um religioso (padre, pastor, ...,&nbsp;diácono). Em sua cerimônia ele é uma peça central para que seu momento seja celebrado da melhor maneira.&nbsp;</font>",
+        "socialButtons": [
+          {
+            "account": "#",
+            "type": "facebook",
+            "value": "Facebook"
+          },
+          {
+            "account": "#",
+            "type": "instagram",
+            "value": "Instagram"
+          },
+          {
+            "account": "#",
+            "type": "twitter",
+            "value": "Twitter"
+          },
+          {
+            "account": "#",
+            "type": "youtube",
+            "value": "YouTube"
+          }
+        ],
+        "_toggle": {
+          "title": false,
+          "copyrightHelper": false,
+          "global.email": false,
+          "description": true,
+          "global.phone": true
+        },
+        "title": "Clique aqui para editar seu título",
+        "titleNavigation": "Páginas",
+        "titleSocial": "Siga-nos",
+        "titleAddress": "Endereço",
+        "titleDescription": "<font class=\"cstm-fnt\" style=\"font-size: 80.01%;\">Celebrante Humanista</font>",
+        "copyright": true,
+        "addressToggle": true,
+        "pagesMenu": true,
+        "_placeholders": {
+          "description": "Adicione uma descrição."
+        },
+        "background": {
+          "colorIndex": 0
+        },
+        "globalLocationId": "1",
+        "features": [
+          "legal"
+        ]
+      }
+    }
+  },
+  "theme": {
+    "colors": {
+      "text": [
+        0,
+        0,
+        0
+      ],
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "accent": [
+        [
+          224,
+          247,
+          250
+        ],
+        [
+          174,
+          196,
+          199
+        ]
+      ],
+      "style": "pastels"
+    },
+    "fonts": {
+      "body": {
+        "name": "Sintony",
+        "weight": "400"
+      },
+      "heading": {
+        "name": "Source Sans Pro:800",
+        "weight": "800"
+      },
+      "fontSize": 18
+    },
+    "animations": {
+      "enabled": false
+    },
+    "roundedCorners": false
+  },
+  "globalBinding": {
+    "accounts": {
+      "facebook": "https://www.facebook.com/david.celebrante",
+      "instagram": "https://www.instagram.com/pedavidsantoscelebrante/",
+      "linkedin": "https://www.linkedin.com/in/david-santos-0a738b82/",
+      "youtube": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCtnfqNJ6C10q6nLHD8Y3zlw%3Ffbclid%3DIwAR2aGIjtzd1fu_N0ngVM8OcdJyF9mxaZn5UgX_6XO3skFSNt-oRsU9aINqU&h=AT2RPXpqQslJb6DBNDnFDTsH6KTH4l4yG0Q8DnuDP1h34e9MYh0_LCvw4hVmA0yvJxFSGunoyEPlzrkytmcST7wvUhwcNjvUk9RXEfTJcRdN5fnAACQk8Gf9cDt8t71BcN9q98ZaIeqIKto"
+    },
+    "menuData": [],
+    "translations": {},
+    "logo": "",
+    "title": "Pe David Santos, Celebrante",
+    "callToAction": {
+      "source": "global.phone",
+      "title": "Blog",
+      "link": {},
+      "buttonClass": "button-",
+      "colorClass": "primary",
+      "href": "http://palavrasoltasdjs.blogspot.com/",
+      "linkType": "web",
+      "telHref": "tel:+55 31 99143-8577",
+      "activeTab": -1,
+      "textStyle": {
+        "font-size": "1em"
+      },
+      "isValidUrl": true
+    },
+    "legal": {
+      "privacyPolicy": {
+        "showCookieBanner": true,
+        "bannerPosition": "bottom",
+        "bannerText": "Este site usa cookies",
+        "agreeButtonText": "Eu concordo com isso",
+        "privacyPolicyText": ""
+      },
+      "termsOfService": {
+        "termsOfServiceText": ""
+      }
+    },
+    "description": "",
+    "coverPhoto": "",
+    "products": "",
+    "about": "",
+    "locations": {
+      "1": {
+        "openingHours": {
+          "mon": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "tue": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "wed": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "thu": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "fri": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "sat": [
+            {
+              "description": "Fechado"
+            }
+          ],
+          "sun": [
+            {
+              "description": "Fechado"
+            }
+          ]
+        },
+        "address": {
+          "street": "Av. Olegário Maciel, 1600 ",
+          "zip": "30180-111",
+          "city": "Belo Horizonte",
+          "state": "Minas Gerais",
+          "country": "Brasil"
+        },
+        "companyName": "David Santos, Celebrante",
+        "phone": "",
+        "email": "davidcelebrante@gmail.com"
+      },
+      "location-1569930722047": {
+        "companyName": "new business",
+        "address": {},
+        "openingHours": {
+          "mon": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "tue": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "wed": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "thu": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "fri": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "sat": [
+            {
+              "description": "Closed"
+            }
+          ],
+          "sun": [
+            {
+              "description": "Closed"
+            }
+          ]
+        },
+        "email": "davidcelebrante@gmail.com",
+        "phone": "+5531991438577"
+      }
+    }
+  },
+  "pages": [
+    {
+      "id": "inicio",
+      "title": "Início",
+      "sections": [
+        {
+          "id": 2,
+          "layout": {
+            "section": {
+              "id": "gadege31"
+            },
+            "sectionAlign": "left"
+          },
+          "category": "mediatext",
+          "binding": {
+            "title": "<font class=\"cstm-fnt\" style=\"font-size: 70.1%;\">David Santos, Celebrante</font>",
+            "subtitle": "<font class=\"cstm-fnt\" style=\"font-size: 90.01%;\"><font class=\"cstm-fnt\" style=\"font-size: 77.7801%;\">Uma cerimônia deve ser leve, descontraída e refletir com compromisso sobre a identidade dos nubentes. O casamento não é um mero evento social, mas é a expressão máxima da história de amor que será celebrada.<br>Pe. David oferece um serviço personalizado, construído em conjunto que se apoia na vivência e na história de amor do casal.</font><br></font><br>",
+            "description": "",
+            "buttons": [
+              {
+                "id": "01",
+                "href": "page:about",
+                "linkType": "page",
+                "title": "Conte-nos mais",
+                "styles": {
+                  "background": "",
+                  "border": ""
+                },
+                "buttonClass": "button-",
+                "colorClass": "primary"
+              }
+            ],
+            "list": [
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1481185103603-1dc844ef51db?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e66481a6d1211fd1e183f1085d01bf8a&auto=format&fit=crop&w=1953&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              },
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d2997f5abf492da5dcbf1dec71f3989b&auto=format&fit=crop&w=1950&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              },
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=184bd14137946e201684525754557472&auto=format&fit=crop&w=1950&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/5dcfbc29f3424b7381960e1af5a42989",
+              "altText": "groom beside bride holding bouquet flowers",
+              "originalSize": {
+                "width": 1280,
+                "height": 853
+              },
+              "source": "uploads"
+            },
+            "roundedCorners": false,
+            "aspectRatio": "landscape",
+            "dropShadow": true,
+            "socialIcons": true,
+            "contentAlignment": "align-left",
+            "_placeholders": {
+              "subtitle": "Tem algo mais a dizer ou mostrar? Você pode fazer isto nesta seção. Adicione fotos e uma breve descrição para mostrar aos visitantes um pouco mais sobre o que você desejar.",
+              "description": "Adicione uma descrição."
+            },
+            "_toggle": {
+              "image": true,
+              "title": true,
+              "subtitle": true,
+              "description": false,
+              "buttons": false
+            },
+            "background": {
+              "colorIndex": 3
+            }
+          }
+        },
+        {
+          "id": 3,
+          "layout": {
+            "section": {
+              "id": "fenosa25"
+            }
+          },
+          "category": "calltoaction",
+          "binding": {
+            "title": "Rituais que falam aos corações...",
+            "subtitle": "<font class=\"cstm-fnt\" style=\"font-size: 60.01%;\">O que fala ao seu coração?</font>",
+            "buttons": [
+              {
+                "id": "01",
+                "href": "page:about",
+                "linkType": "page",
+                "title": "Leia mais",
+                "styles": {
+                  "background": "",
+                  "border": ""
+                }
+              }
+            ],
+            "button": {
+              "title": "Leia mais",
+              "href": "#"
+            },
+            "layoutPosition": 2,
+            "description": "<font class=\"cstm-fnt\" style=\"font-size: 90.01%;\">Existem rituais&nbsp;que contribuem para que sua cerimônia fale ao coração de todos que estão presentes. Confira abaixo alguns, se o seu não estiver aqui construiremos juntos...<br><br><b> Rito da luz:&nbsp;</b>&nbsp;Bela maneira de celebrar no fim da tarde, quando o efeito visual é mais acentuado. O Celebrante entrega aos noivos duas velas com as quais acenderão uma vela maior. Esse momento representa o nascimento de uma nova família, a união dos noivos que fundem suas energias através das chamas, preservando sua individualidade e personalidade.<br><b>Rito das areias coloridas:</b>&nbsp;No rito da areia, os noivos, cada um com um frasco com areia de cor diferente, enchem um frasco maior; as areias misturam-se, criando uma linda combinação de cores. Essa combinação ficará em casa numa posição visível, e será uma bonita lembrança do casamento. &nbsp;<b>\n<br>\n\nRito&nbsp; do Vinho:</b>&nbsp;Neste rito, os noivos fecham numa caixa apropriada uma garrafa de vinho especial com duas cartas de amor, juntamente com as mensagens escritas pelos convidados. A caixa será aberta na data do primeiro ano de casamento,&nbsp;e o vinho bebido para comemorar. Nessa ocasião o casal pode renovar seus votos e colocar na caixa uma nova mensagem e vinho novo.&nbsp;\n<br><b>Rito do Vinho Tinto e Branco:&nbsp;</b>Neste rito, os noivos reservam uma taça de vinho tinto e uma de vinho branco, no momento apropriado irão misturar as duas bebidas em uma taça maior. Esse momento representa o nascimento de uma nova família, a união dos noivos que fundem suas energias através da nova bebida, do vinho novo, preservando sua individualidade e personalidade. &nbsp;\n<br><b>Cerimônia da Rosa:&nbsp;</b>No rito da rosa os noivos trocam duas rosas vermelhas. A rosa será o símbolo do amor do casal. Em casa, um lugar significativo será escolhido para colocar uma jarra onde, nos momentos importantes, uma rosa vermelha será posta para transmitir uma mensagem de amor. Uma ideia romântica para acabar, por exemplo, com alguma situação de tensão.&nbsp;<b>\n<br>Cerimônia das Alianças:</b>&nbsp;No rito dos anéis, as alianças passam pelas mãos dos convidados que as aquecem, enquanto dedicam mentalmente um lindo pensamento aos noivos. As alianças, assim energizadas, chegam aos noivos para a fase conclusiva da celebração. &nbsp;\n<br><b>Cerimônia da Árvore:</b>&nbsp;Nesse rito o casal planta uma muda de árvore que simboliza a nova família, assim como a árvore o casamento deve possuir raízes bem fundamentadas para que seja fecundo e se sustente. A muda posteriormente deve ser cultivada pelo casal.&nbsp;\n<br><b>O&nbsp;handfasting</b>&nbsp;é um antigo rito celta. No momento dos votos, o Celebrante ata as mãos dos noivos com 3 fitas simbólicas, que no fim da cerimônia serão retiradas e guardadas numa caixa apropriada, para lembrar a ligação que foi criada entre os noivos no casamento.&nbsp;</font>",
+            "icon": {
+              "value": "fa-book",
+              "code": "fa-book",
+              "name": "Book"
+            },
+            "image": {
+              "value": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+              "altText": "man and woman holding hands",
+              "originalSize": {
+                "width": 6000,
+                "height": 4000
+              }
+            },
+            "contentAlignment": "align-center",
+            "_placeholders": {
+              "subtitle": "Confira nossas últimas promoções!",
+              "description": "Use esta seção de detalhamento para explicar o que você gostaria que seus visitantes fizessem. Por exemplo: clicar em um link, comprar na loja virtual, ir até a loja física ou marcar um horário."
+            },
+            "_toggle": {
+              "image": true,
+              "title": true,
+              "subtitle": true,
+              "description": true,
+              "buttons": true
+            },
+            "background": {
+              "colorIndex": 3
+            }
+          }
+        },
+        {
+          "id": 4,
+          "layout": {
+            "section": {
+              "id": "komupe08"
+            },
+            "listItem": {
+              "name": "images-3",
+              "html": "<div class=\"{{_parent._rowClassNames}}\">\n  <div class=\"column\">\n    <div class=\"image-container {{#if parent.dropShadow}}drop-shadow-lg{{/if}}\">\n      {{image \"image\" \"div\" \"content-card-img kv-gallery\"}}\n    </div>\n  </div>\n</div>",
+              "html_templates": {},
+              "fields": [
+                "parent.dropShadow",
+                "image"
+              ],
+              "metadata": {
+                "parents": [
+                  "images/images"
+                ],
+                "categories": [
+                  "images"
+                ],
+                "columns": {
+                  "minValue": 2,
+                  "maxValue": 6,
+                  "default": 3
+                },
+                "properties": {
+                  "generic": [
+                    "image",
+                    "gutters"
+                  ]
+                },
+                "id": "yilugu00"
+              },
+              "css": "\n.yilugu00 .image-container {\n  overflow: hidden;\n  margin: 1rem 0; }\n\n\n.yilugu00 .content-card-img {\n  width: 100%;\n  padding-bottom: 150%;\n  background-size: cover;\n  background-position: center;\n  overflow: hidden;\n  transition: transform 300ms; }\n  \n  .yilugu00 .content-card-img:hover {\n    cursor: pointer;\n    transform: scale(1.1); }\n\n\n.yilugu00 .col-lg-6 .content-card-img {\n  padding-bottom: 100%; }\n\n\n.yilugu00 .col-lg-12 .content-card-img {\n  padding-bottom: 60%; }\n  @media (min-width: 767px) {\n    \n    .yilugu00 .col-lg-12 .content-card-img.left, .yilugu00 .col-lg-12 .content-card-img.right {\n      width: 80%; }\n    \n    .yilugu00 .col-lg-12 .content-card-img.right {\n      margin-left: 20%; } }\n\n\n.yilugu00 .landscape .content-card-img {\n  padding-bottom: 75%; }\n\n\n.yilugu00 .portrait .content-card-img {\n  padding-bottom: 133%; }\n\n\n.yilugu00 .square .content-card-img {\n  padding-bottom: 100%; }\n\n\n.yilugu00 .no-gutters .column {\n  margin: 0 -15px; }\n\n\n.yilugu00 .no-gutters .image-container {\n  margin: 0; }\n\n\n.yilugu00 .no-gutters .content-card-img {\n  margin: 0;\n  box-shadow: none; }\n\n\n.yilugu00 .rounded-corners .image-container {\n  border-radius: .75rem; }\n\n",
+              "imports": [],
+              "style_variables": [],
+              "path": "images/images-3",
+              "id": "yilugu00",
+              "properties": {
+                "undefined": [
+                  {
+                    "label": "designer.propertyManager.fields.image",
+                    "type": "boolean",
+                    "default": true,
+                    "isToggle": true,
+                    "isGlobal": false,
+                    "whenEmptyInsertLabel": "designer.propertyManager.clickHere",
+                    "name": "image"
+                  }
+                ],
+                "layout": [
+                  {
+                    "category": "layout",
+                    "type": "boolean",
+                    "label": "designer.propertyManager.properties.gutters",
+                    "default": true,
+                    "name": "gutters"
+                  }
+                ]
+              }
+            },
+            "columns": 3
+          },
+          "category": "images",
+          "binding": {
+            "title": "Algumas fotos",
+            "subtitle": "<font class=\"cstm-fnt\" style=\"font-size: 70.01%;\"><i>Celebrar o amor é experimentar a alegria do viver dos casais que se unem em matrimônio...</i></font>",
+            "description": "<i><font class=\"cstm-fnt\" style=\"font-size: 60.1%;\">Um pouco de meu trabalho transmitido em imagens...</font></i>",
+            "_toggle": {
+              "buttons": false,
+              "button1": false,
+              "title": true,
+              "subtitle": true,
+              "description": true
+            },
+            "buttons": [
+              {
+                "id": "01",
+                "href": "##",
+                "title": "Leia mais",
+                "styles": {
+                  "background": "",
+                  "border": ""
+                }
+              }
+            ],
+            "list": [
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/63eb555256774ad0b15c2624054d5d6c",
+                  "altText": "two people standing on brown wooden floor",
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 0,
+                "__index": 0
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/43d6f74f1bc34c3cafad762ac74e21f7",
+                  "altText": "clear wine glass lot on table",
+                  "originalSize": {
+                    "width": 1280,
+                    "height": 854
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 1,
+                "__index": 1
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/3e7a89eb3bc14d248041cd28a4cf78bf",
+                  "altText": "selective focus photography white and pink isle flower arrangement",
+                  "originalSize": {
+                    "width": 1280,
+                    "height": 853
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 2,
+                "__index": 2
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/3409765f960f4f08a070e061d258641b",
+                  "altText": "two decorative chairs on grass field near body of water",
+                  "originalSize": {
+                    "width": 1280,
+                    "height": 853
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 3,
+                "__index": 3
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/572bb5b513df4ad0abefebf5b8db442f",
+                  "altText": "gold-colored rings",
+                  "originalSize": {
+                    "width": 720,
+                    "height": 1080
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 4,
+                "__index": 4
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/cc6eca353dc542b4b065c9c906baad8b",
+                  "altText": "clear wine glass lot on table",
+                  "originalSize": {
+                    "width": 960,
+                    "height": 1280
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 5
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/462048561d9d497995d6b01ed09e4b3b",
+                  "altText": "white dinnerware set on brown wooden dining sets inside room",
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 6
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/0a7316b4526f4c73a2980ce567faee98",
+                  "altText": "selective focus photography white and pink isle flower arrangement",
+                  "originalSize": {
+                    "width": 960,
+                    "height": 1280
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 7
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/268f24f169fb4cc9bc2da49775fb6689",
+                  "altText": "white dinnerware set on brown wooden dining sets inside room",
+                  "originalSize": {
+                    "width": 960,
+                    "height": 1280
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 8
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/2cfc0e6598354c4abcf9a45f21f63a0f",
+                  "altText": "woman wearing white dress beside man wearing formal suit under wooden roof during daytime",
+                  "originalSize": {
+                    "width": 960,
+                    "height": 1280
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 9
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/46719e9c302547b19ce28daf6d73f40a",
+                  "altText": "man and woman wearing wedding dress while sitting on truck",
+                  "originalSize": {
+                    "width": 1280,
+                    "height": 853
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 10
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/bc87be4ee78b45948314ba51eed27027",
+                  "altText": "gold-colored bridal ring set on pink rose flower bouquet",
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 11
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/b115a762d1964ab7b6553e4a90860b78",
+                  "altText": "brides and groom looking each other",
+                  "originalSize": {
+                    "width": 900,
+                    "height": 600
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 12
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/2bdfeec24efb4554b4bcbcb7f4a64225",
+                  "altText": "brides and groom looking each other",
+                  "originalSize": {
+                    "width": 900,
+                    "height": 599
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 13
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/f6501149a5d9477a8502c89643422398",
+                  "altText": "woman giving wedding ring to man",
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 14
+              },
+              {
+                "title": "Título",
+                "subtitle": "Adicione uma resposta.",
+                "description": "Descreva em poucas palavras o que seus visitantes encontrarão aqui. Escreva algo sobre suas fotos e conte aos visitantes sobre o que elas são.",
+                "image": {
+                  "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/a3d440dd9c8945edabc7d56ee4950571",
+                  "altText": "gold-colored bridal ring set on pink rose flower bouquet",
+                  "originalSize": {
+                    "width": 1280,
+                    "height": 853
+                  },
+                  "source": "uploads"
+                },
+                "icon": {
+                  "value": "fa-search-plus"
+                },
+                "id": 5,
+                "__index": 15
+              }
+            ],
+            "columns": 4,
+            "rowLayout": 0,
+            "isSlider": false,
+            "roundedCorners": false,
+            "gutters": true,
+            "fullWidth": false,
+            "aspectRatio": "square",
+            "_placeholders": {
+              "subtitle": "Descreva sua galeria aqui. Você pode ocultar este elemento no menu à direita.",
+              "description": "Escreva algo sobre suas fotos. Diga a seus visitantes o que suas imagens representam."
+            },
+            "contentAlignment": "align-left",
+            "dropShadow": false,
+            "background": {
+              "colorIndex": 0,
+              "patternIndex": 5
+            }
+          }
+        },
+        {
+          "id": 6,
+          "layout": {
+            "section": {
+              "id": "zodase44"
+            }
+          },
+          "category": "subscribe",
+          "binding": {
+            "title": "",
+            "subtitle": "Assine nossa newsletter e mantenha-se atualizado",
+            "description": "",
+            "icon": {
+              "value": "fa-envelope"
+            },
+            "image": {
+              "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/c018582820ad4ef6a842f85c55a0445d",
+              "altText": "woman in white bridal gown sitting on brown wing chair while holding bouquet",
+              "originalSize": {
+                "width": 1280,
+                "height": 853
+              },
+              "source": "uploads"
+            },
+            "formData": {
+              "submitButton": {
+                "title": "Inscrever-se"
+              },
+              "successMessage": "Sua mensagem foi enviada com sucesso. Esperamos responder em até 24 horas. Você também pode nos contatar através de redes sociais. Os links estão logo abaixo.",
+              "successTitle": "Mensagem enviada!"
+            },
+            "formOptions": {
+              "successMessage": "Obrigado por se inscrever em nossa newsletter.",
+              "successTitle": "Inscrito!"
+            },
+            "noanimation": true,
+            "dropShadow": true,
+            "contentAlignment": "align-center",
+            "_toggle": {
+              "description": false,
+              "icon": true,
+              "title": false,
+              "subtitle": true
+            },
+            "_placeholders": {
+              "subtitle": "Assine nossa newsletter e mantenha-se atualizado"
+            },
+            "background": {
+              "colorIndex": 3
+            },
+            "features": [
+              "subscription",
+              "popover"
+            ]
+          }
+        }
+      ],
+      "uriPath": "inicio",
+      "showInNavigation": true,
+      "mainPage": true,
+      "headerSection": {
+        "id": 7,
+        "layout": {
+          "section": {
+            "id": "dubemo66"
+          }
+        },
+        "category": "headers",
+        "binding": {
+          "cover": true,
+          "fixedNavigation": true,
+          "title": "Pe. David Santos, Celebrante",
+          "subtitle": "<i><font class=\"cstm-fnt\" style=\"font-size: 50.01%;\"><font class=\"cstm-fnt\" style=\"font-size: 200.16%;\">Ama e faz o que quiseres! </font><br><font class=\"cstm-fnt\" style=\"font-size: 99.98%;\">(Agostinho de Hipona)</font></font></i>",
+          "description": "",
+          "image": {
+            "value": "https://images.unsplash.com/photo-1543587654-5c4b89aba2fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+            "altText": "man and woman wearing wedding dress while sitting on truck",
+            "originalSize": {
+              "width": 5251,
+              "height": 3501
+            }
+          },
+          "buttons": [
+            {
+              "id": "01",
+              "href": "page:about",
+              "linkType": "page",
+              "title": "David Santos é brasileiro, professor, poeta amador e Celebrante Humanista.&nbsp;Realiza cerimônias &nbsp;personalizadas, construídas em consonância com a história de amor, com a religiosidade e a filosofia de vida&nbsp;dos nubentes.&nbsp;",
+              "styles": {
+                "background": "",
+                "border": ""
+              },
+              "buttonClass": "button-",
+              "colorClass": "primary"
+            }
+          ],
+          "socialButtons": [
+            {
+              "account": "###",
+              "type": "facebook"
+            },
+            {
+              "account": "###",
+              "type": "instagram"
+            },
+            {
+              "account": "###",
+              "type": "twitter"
+            }
+          ],
+          "button1": {
+            "href": "page:about",
+            "linkType": "page",
+            "title": "Conte-nos mais",
+            "prop": "botão1",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "button2": {
+            "href": "##",
+            "title": "Conte-nos mais",
+            "prop": "button2",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "contentAlignment": "align-center",
+          "_toggle": {
+            "description": false,
+            "title": true,
+            "subtitle": true,
+            "buttons": true,
+            "global.title": false,
+            "global.callToAction": true
+          },
+          "fullPage": false,
+          "_placeholders": {
+            "subtitle": "Isto é um subtítulo. Você pode ocultar este elemento no menu à direita.",
+            "description": "Escreva algo aqui para apresentar sua empresa ao seu público. Descreva o que você faz e o que seu negócio tem a oferecer."
+          },
+          "fitText": true,
+          "arrow": true,
+          "background": {
+            "colorIndex": 0,
+            "img": {
+              "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/572bb5b513df4ad0abefebf5b8db442f",
+              "source": "uploads"
+            },
+            "opacity": 50,
+            "color": [
+              80,
+              80,
+              80
+            ],
+            "userPickedImage": true
+          },
+          "features": [
+            "navigation"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sobre",
+      "title": "Sobre",
+      "sections": [
+        {
+          "id": 8,
+          "layout": {
+            "section": {
+              "id": "gadege31"
+            }
+          },
+          "category": "mediatext",
+          "binding": {
+            "title": "Pe. David Santos",
+            "subtitle": "Pe. David Santos é brasileiro, licenciado em matemática, bacharel e licenciado em filosofia.&nbsp;Realiza cerimônias &nbsp;personalizadas, construídas em consonância com a história de amor, com a religiosidade/ filosofia de vida&nbsp;dos nubentes. Para David, não é&nbsp;a quantidade das palavras que definem uma boa oratória, mas sua profundidade.&nbsp;\n\nO celebrante vivencia sua dimensão religiosa-espiritual através das cerimônias que realiza,&nbsp;de seu trabalho como padre na Igreja Católica Ecumênica do Brasil e&nbsp;vivencia a&nbsp;mistica voltada para meditação e contemplação.\n\nPe. David além de casamentos celebra bodas, batizados, missas, celebrações liturgicas&nbsp;e cultos ecumênicos. Aprecie um pouco mais através dos links abaixo:<br><br><font class=\"cstm-fnt\" style=\"font-size: 70.1%;\">https://m.facebook.com/watchparty/373303280137706/\n\nhttps://youtu.be/RvrzclN8I68\n<br>\nhttps://soundcloud.com/celebrante-david-j-santos/ha-celebrantedavid-info</font>",
+            "description": "",
+            "buttons": [
+              {
+                "id": "01",
+                "href": "page:about",
+                "linkType": "page",
+                "title": "Conte-nos mais",
+                "styles": {
+                  "background": "",
+                  "border": ""
+                },
+                "buttonClass": "button-",
+                "colorClass": "primary"
+              }
+            ],
+            "list": [
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1481185103603-1dc844ef51db?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e66481a6d1211fd1e183f1085d01bf8a&auto=format&fit=crop&w=1953&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              },
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d2997f5abf492da5dcbf1dec71f3989b&auto=format&fit=crop&w=1950&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              },
+              {
+                "title": "Imagem",
+                "subtitle": "Subtítulo",
+                "description": "Descreva a imagem ou forneça mais informações.",
+                "image": {
+                  "value": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=184bd14137946e201684525754557472&auto=format&fit=crop&w=1950&q=80"
+                },
+                "socialButtons": [
+                  {
+                    "account": "",
+                    "type": "facebook"
+                  },
+                  {
+                    "account": "",
+                    "type": "instagram"
+                  },
+                  {
+                    "account": "",
+                    "type": "twitter"
+                  }
+                ]
+              }
+            ],
+            "image": {
+              "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/a3d440dd9c8945edabc7d56ee4950571",
+              "altText": "gold-colored bridal ring set on pink rose flower bouquet",
+              "source": "uploads",
+              "originalSize": {
+                "width": 1280,
+                "height": 853
+              }
+            },
+            "roundedCorners": false,
+            "aspectRatio": "landscape",
+            "dropShadow": true,
+            "socialIcons": true,
+            "contentAlignment": "align-left",
+            "_placeholders": {
+              "subtitle": "Tem algo mais a dizer ou mostrar? Você pode fazer isto nesta seção. Adicione fotos e uma breve descrição para mostrar aos visitantes um pouco mais sobre o que você desejar.",
+              "description": "Adicione uma descrição."
+            },
+            "_toggle": {
+              "image": true,
+              "title": true,
+              "subtitle": true,
+              "description": false,
+              "buttons": false
+            },
+            "background": {
+              "colorIndex": 3
+            }
+          }
+        },
+        {
+          "id": 11,
+          "layout": {
+            "section": {
+              "id": "hipolo98"
+            }
+          },
+          "category": "social",
+          "binding": {
+            "title": "Siga-nos",
+            "subtitle": "Adicione um subtítulo.",
+            "description": "Adicione uma descrição.",
+            "socialButtons": [
+              {
+                "account": "",
+                "type": "facebook"
+              },
+              {
+                "account": "",
+                "type": "instagram"
+              },
+              {
+                "account": "",
+                "type": "twitter"
+              },
+              {
+                "account": "",
+                "type": "youtube"
+              }
+            ],
+            "_toggle": {
+              "title": true,
+              "subtitle": true,
+              "description": false
+            },
+            "_placeholders": {
+              "subtitle": "Adicione um subtítulo.",
+              "description": "Adicione uma descrição."
+            },
+            "contentAlignment": "align-center",
+            "background": {
+              "colorIndex": 3
+            }
+          }
+        }
+      ],
+      "uriPath": "sobre",
+      "showInNavigation": true,
+      "mainPage": false,
+      "headerSection": {
+        "id": 12,
+        "layout": {
+          "section": {
+            "id": "dubemo66"
+          }
+        },
+        "category": "headers",
+        "binding": {
+          "cover": false,
+          "fixedNavigation": true,
+          "title": "Pe. David Santos, Celebrante",
+          "subtitle": "<i><font class=\"cstm-fnt\" style=\"font-size: 50.01%;\"><font class=\"cstm-fnt\" style=\"font-size: 200.16%;\">Ama e faz o que quiseres! </font><br><font class=\"cstm-fnt\" style=\"font-size: 99.98%;\">(Agostinho de Hipona)</font></font></i>",
+          "description": "",
+          "image": {
+            "value": "https://images.unsplash.com/photo-1543587654-5c4b89aba2fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+            "altText": "man and woman wearing wedding dress while sitting on truck",
+            "originalSize": {
+              "width": 5251,
+              "height": 3501
+            }
+          },
+          "buttons": [
+            {
+              "id": "01",
+              "href": "page:about",
+              "linkType": "page",
+              "title": "David Santos é brasileiro, professor, poeta amador e Celebrante Humanista.&nbsp;Realiza cerimônias &nbsp;personalizadas, construídas em consonância com a história de amor, com a religiosidade e a filosofia de vida&nbsp;dos nubentes.&nbsp;",
+              "styles": {
+                "background": "",
+                "border": ""
+              },
+              "buttonClass": "button-",
+              "colorClass": "primary"
+            }
+          ],
+          "socialButtons": [
+            {
+              "account": "###",
+              "type": "facebook"
+            },
+            {
+              "account": "###",
+              "type": "instagram"
+            },
+            {
+              "account": "###",
+              "type": "twitter"
+            }
+          ],
+          "button1": {
+            "href": "page:about",
+            "linkType": "page",
+            "title": "Conte-nos mais",
+            "prop": "botão1",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "button2": {
+            "href": "##",
+            "title": "Conte-nos mais",
+            "prop": "button2",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "contentAlignment": "align-center",
+          "_toggle": {
+            "description": false,
+            "title": true,
+            "subtitle": true,
+            "buttons": true,
+            "global.title": false,
+            "global.callToAction": true
+          },
+          "fullPage": false,
+          "_placeholders": {
+            "subtitle": "Isto é um subtítulo. Você pode ocultar este elemento no menu à direita.",
+            "description": "Escreva algo aqui para apresentar sua empresa ao seu público. Descreva o que você faz e o que seu negócio tem a oferecer."
+          },
+          "fitText": true,
+          "arrow": true,
+          "background": {
+            "colorIndex": 0
+          },
+          "features": [
+            "navigation"
+          ]
+        }
+      },
+      "section": []
+    },
+    {
+      "id": "contato",
+      "title": "Contato",
+      "sections": [
+        {
+          "id": 13,
+          "layout": {
+            "section": {
+              "id": "qifefo36"
+            }
+          },
+          "category": "contact",
+          "binding": {
+            "title": "Fale comigo!",
+            "subtitle": "Entre em contato",
+            "description": "Escreva algo neste espaço.",
+            "formData": {
+              "title": "Nos envie uma mensagem",
+              "namelabel": "Nome",
+              "emaillabel": "E-mail",
+              "phonelabel": "Telefone",
+              "messagelabel": "Mensagem",
+              "submitButton": {
+                "title": "Enviar mensagem"
+              }
+            },
+            "image": {
+              "value": "https://images.unsplash.com/photo-1525258946800-98cfd641d0de?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+              "altText": "woman holding white and pink rose flower bouquet",
+              "originalSize": {
+                "width": 3648,
+                "height": 5472
+              }
+            },
+            "formOptions": {
+              "fieldFirstName": {
+                "key": "primeiroNome",
+                "toggle": true,
+                "translation": "Nome"
+              },
+              "fieldLastName": {
+                "key": "sobreNome",
+                "toggle": true,
+                "translation": "Sobrenome"
+              },
+              "fieldSubject": {
+                "key": "assunto",
+                "toggle": true,
+                "translation": "Assunto do e-mail"
+              },
+              "fieldMessage": {
+                "key": "Mensagem",
+                "toggle": true,
+                "translation": "Sua mensagem"
+              },
+              "fieldEmail": {
+                "key": "E-mail",
+                "toggle": true,
+                "translation": "Seu e-mail"
+              },
+              "fieldPhone": {
+                "key": "Telefone",
+                "toggle": false,
+                "translation": "Seu telefone"
+              },
+              "fieldDate": {
+                "key": "data",
+                "toggle": false,
+                "translation": "Campo de data"
+              },
+              "fieldAddress": {
+                "key": "Endereço",
+                "toggle": false,
+                "translation": "Seu endereço"
+              },
+              "successMessage": "Sua mensagem foi enviada com sucesso. Esperamos responder em até 24 horas. Você também pode nos contatar através de redes sociais. Os links estão logo abaixo.",
+              "successTitle": "Mensagem enviada!"
+            },
+            "roundedCorners": true,
+            "line": true,
+            "contentAlignment": "align-center",
+            "_toggle": {
+              "description": true,
+              "title": true,
+              "subtitle": true
+            },
+            "_placeholders": {
+              "subtitle": "Entre em contato",
+              "description": "Escreva algo neste espaço."
+            },
+            "background": {
+              "colorIndex": 0,
+              "img": {
+                "value": "https://images.unsplash.com/photo-1507504031003-b417219a0fde?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+                "altText": "Mr and Mrs signage",
+                "originalSize": {
+                  "width": 5184,
+                  "height": 3456
+                }
+              },
+              "opacity": 50,
+              "color": [
+                80,
+                80,
+                80
+              ]
+            },
+            "features": [
+              "form-submission"
+            ]
+          }
+        },
+        {
+          "id": 14,
+          "layout": {
+            "section": {
+              "id": "yusaqi04"
+            }
+          },
+          "category": "heroimage",
+          "binding": {
+            "noanimation": true,
+            "title": "David Santos",
+            "subtitle": "Um pouco sobre...",
+            "image": {
+              "value": "https://images.unsplash.com/photo-1481066717861-4775e000c88a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+              "altText": "bride smelling the flowers",
+              "originalSize": {
+                "width": 3648,
+                "height": 5472
+              }
+            },
+            "description": "Sou, David Santos, professor, poeta amador, padre, ..., Celebrante Humanista. Durante minha vida tive uma sólida formação humana, por sete anos fui religioso onde passei por diversas experiências humanas/espirituais que me enriqueceram como ser humano.<br>Hoje leciono matemática e filosofia, sou padre em uma Igreja Católica Nacional e amo realizar o sonho dos nubentes através de cerimônias que transmitem as luzes que partem de seu amor.",
+            "buttons": [
+              {
+                "id": "01",
+                "href": "http://palavrasoltasdjs.blogspot.com/",
+                "linkType": "web",
+                "title": "Poesias",
+                "styles": {
+                  "background": "",
+                  "border": ""
+                },
+                "buttonClass": "button-",
+                "colorClass": "primary",
+                "isValidUrl": true,
+                "activeTab": -1
+              }
+            ],
+            "button1": {
+              "href": "##",
+              "title": "Leia mais",
+              "icon": "fa-star"
+            },
+            "button2": {
+              "href": "###",
+              "title": "Leia mais 2",
+              "icon": "fa-star"
+            },
+            "fullPage": true,
+            "_placeholders": {
+              "subtitle": "Apresente-se, fale de você ou de sua empresa aqui.",
+              "description": "\"<strong></strong>Apresente-se, fale de você ou de sua empresa aqui. Você pode ocultar este elemento no menu à direita.<br>Utilize este elemento para apresentar sua paixão, empresa ou serviços. Você pode ocultar este elemento no menu à direita.&nb..."
+            },
+            "_toggle": {
+              "title": true,
+              "subtitle": true,
+              "description": true,
+              "buttons": true
+            },
+            "divider": true,
+            "contentAlignment": "align-center",
+            "background": {
+              "colorIndex": 0,
+              "img": {
+                "value": "https://images.unsplash.com/photo-1541250848049-b4f7141dca3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+                "altText": "woman facing man standing on gray rock",
+                "originalSize": {
+                  "width": 3840,
+                  "height": 5760
+                }
+              },
+              "opacity": 50,
+              "color": [
+                80,
+                80,
+                80
+              ]
+            }
+          }
+        },
+        {
+          "id": 15,
+          "layout": {
+            "section": {
+              "id": "faqazu90"
+            }
+          },
+          "category": "openinghours",
+          "binding": {
+            "days": {
+              "mon": "Segunda",
+              "tue": "Terça",
+              "wed": "Quarta",
+              "thu": "Quinta",
+              "fri": "Sexta",
+              "sat": "Sábado",
+              "sun": "Domingo"
+            },
+            "title": "Horário de funcionamento<br><font class=\"cstm-fnt\" style=\"font-size: 50.01%;\"><i>Atendimento Personalizado</i></font>",
+            "image": {
+              "value": "https://storage.googleapis.com/production-hostgator_brasil-v1-0-1/961/90961/WxcM5IBk/43d6f74f1bc34c3cafad762ac74e21f7",
+              "altText": "man and woman on white stair standing in the middle of crowd",
+              "originalSize": {
+                "width": 1280,
+                "height": 854
+              },
+              "source": "uploads"
+            },
+            "openingHoursTitle": "Horário de funcionamento",
+            "addressTitle": "Endereço",
+            "mailTitle": "E-mail",
+            "phoneTitle": "Telefone",
+            "_toggle": {
+              "description": false,
+              "subtitle": false,
+              "title": true,
+              "icon": false,
+              "image": true
+            },
+            "contentAlignment": "align-center",
+            "background": {
+              "colorIndex": 0
+            }
+          }
+        }
+      ],
+      "uriPath": "contato",
+      "showInNavigation": true,
+      "mainPage": false,
+      "headerSection": {
+        "id": 16,
+        "layout": {
+          "section": {
+            "id": "dubemo66"
+          }
+        },
+        "category": "headers",
+        "binding": {
+          "cover": false,
+          "fixedNavigation": true,
+          "title": "Pe. David Santos, Celebrante",
+          "subtitle": "<i><font class=\"cstm-fnt\" style=\"font-size: 50.01%;\"><font class=\"cstm-fnt\" style=\"font-size: 200.16%;\">Ama e faz o que quiseres! </font><br><font class=\"cstm-fnt\" style=\"font-size: 99.98%;\">(Agostinho de Hipona)</font></font></i>",
+          "description": "",
+          "image": {
+            "value": "https://images.unsplash.com/photo-1543587654-5c4b89aba2fa?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjU1MTN9",
+            "altText": "man and woman wearing wedding dress while sitting on truck",
+            "originalSize": {
+              "width": 5251,
+              "height": 3501
+            }
+          },
+          "buttons": [
+            {
+              "id": "01",
+              "href": "page:about",
+              "linkType": "page",
+              "title": "David Santos é brasileiro, professor, poeta amador e Celebrante Humanista.&nbsp;Realiza cerimônias &nbsp;personalizadas, construídas em consonância com a história de amor, com a religiosidade e a filosofia de vida&nbsp;dos nubentes.&nbsp;",
+              "styles": {
+                "background": "",
+                "border": ""
+              },
+              "buttonClass": "button-",
+              "colorClass": "primary"
+            }
+          ],
+          "socialButtons": [
+            {
+              "account": "###",
+              "type": "facebook"
+            },
+            {
+              "account": "###",
+              "type": "instagram"
+            },
+            {
+              "account": "###",
+              "type": "twitter"
+            }
+          ],
+          "button1": {
+            "href": "page:about",
+            "linkType": "page",
+            "title": "Conte-nos mais",
+            "prop": "botão1",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "button2": {
+            "href": "##",
+            "title": "Conte-nos mais",
+            "prop": "button2",
+            "pages": [
+              {
+                "title": "demodata",
+                "uriPath": "demodata"
+              }
+            ]
+          },
+          "contentAlignment": "align-center",
+          "_toggle": {
+            "description": false,
+            "title": true,
+            "subtitle": true,
+            "buttons": true,
+            "global.title": false,
+            "global.callToAction": true
+          },
+          "fullPage": false,
+          "_placeholders": {
+            "subtitle": "Isto é um subtítulo. Você pode ocultar este elemento no menu à direita.",
+            "description": "Escreva algo aqui para apresentar sua empresa ao seu público. Descreva o que você faz e o que seu negócio tem a oferecer."
+          },
+          "fitText": true,
+          "arrow": true,
+          "background": {
+            "colorIndex": 0
+          },
+          "features": [
+            "navigation"
+          ]
+        }
+      },
+      "section": []
+    }
+  ],
+  "metadata": {
+    "siteDescription": "",
+    "siteKeywords": "",
+    "socialShareImage": "",
+    "googleAnalyticsKey": "",
+    "faviconUrl": "https://storage.googleapis.com/development-responsiveeditor-v1-0-7/007/7/CSLAkBdW/b7da93be20c14638beeff4f76fcc0943",
+    "siteName": "",
+    "siteDomain": "",
+    "siteHeaderHtml": "",
+    "siteFooterHtml": "",
+    "companyName": "Dê um nome ao seu site",
+    "templateName": "business",
+    "topicId": 381,
+    "injectSiteId": 49679251,
+    "verticalId": "86b90fbc-5657-4393-ad6d-72d3c63d5391"
+  },
+  "datasources": {},
+  "apiKeys": {
+    "googleMapsApiKey": "AIzaSyDQtuw04WyGWiY3JULv0HDpHdTK16H4_nI"
+  },
+  "urls": {
+    "re_api": "https://re-api.hostgator.com",
+    "hosting_api": "https://hostingapi.mywebsitebuilder.com",
+    "dataproxy": "https://data.mywebsitebuilder.com"
+  },
+  "language": "pt-BR",
+  "featureStorage": {},
+  "globalFeatureModel": {},
+  "navigation": [],
+  "siteId": 49679251,
+  "partnerId": 142,
+  "environment": "prod"
+};
+(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+"use strict";
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+// Removing lodash, @dennis V - will look into this feature again when he comes back
+var deferFunc = function deferFunc(callback) {
+  setTimeout(callback, 1);
+};
+
+var Navigation =
+/*#__PURE__*/
+function () {
+  function Navigation(builderApi, settings, dependencies) {
+    _classCallCheck(this, Navigation);
+
+    this.isRuntimeSite = settings.isRuntimeSite;
+    this.siteController = builderApi.storage.siteController;
+    this.mobileBreakPoint = 991;
+    var isIframePreview = !this.editor && window.self !== window.top;
+    this.resizeWaitTimeout = isIframePreview ? 0 : 300;
+    this.checkMobileMode = this.checkMobileMode.bind(this);
+    this.setMobileMode = this.setMobileMode.bind(this);
+  }
+
+  _createClass(Navigation, [{
+    key: "getRenderModel",
+    value: function getRenderModel(view, model) {
+      return {};
+    }
+  }, {
+    key: "afterRender",
+    value: function afterRender(view, element) {
+      var _this = this;
+
+      var elementsToCheck = element.querySelectorAll('*[data-dynamic-navigation-element]');
+
+      if (!elementsToCheck && !elementsToCheck.length) {
+        return;
+      }
+
+      element.classList.remove('mobile');
+      var container = element.querySelector('*[data-dynamic-container-element]');
+      deferFunc(this.checkMobileMode(element, elementsToCheck, container));
+      deferFunc(function () {
+        return _this.setHeaderHeight(view, element);
+      });
+      window.addEventListener('resize', function () {
+        if (_this.__resizeTimeout) {
+          window.clearTimeout(_this.__resizeTimeout);
+        }
+
+        _this.__resizeTimeout = window.setTimeout(function () {
+          _this.checkMobileMode(element, elementsToCheck, container);
+        }, _this.resizeWaitTimeout);
+      });
+    } // Set the height of the header when it's position fixed, otherwise it might overlap the next section when the title is too long
+
+  }, {
+    key: "setHeaderHeight",
+    value: function setHeaderHeight(view, element) {
+      if (view.model.cover || !this.isRuntimeSite) {
+        return;
+      }
+
+      var headerContainer = element.parentElement.querySelector('.header-container');
+
+      if (headerContainer) {
+        var scrollElement = element.parentElement.querySelector('.kv-check-scroll');
+
+        if (!scrollElement) {
+          return;
+        }
+
+        var scrollElementHeight = scrollElement.clientHeight;
+        var scrollElementChildHeight = scrollElement.children[0].clientHeight;
+        var minHeight = Math.max(scrollElementHeight, scrollElementChildHeight);
+        headerContainer.style.minHeight = "".concat(minHeight, "px");
+      }
+    }
+  }, {
+    key: "getOuterWidth",
+    value: function getOuterWidth(el) {
+      var width = el.offsetWidth;
+      var style = window.getComputedStyle(el);
+      width += parseInt(style.marginLeft) + parseInt(style.marginRight);
+      return width;
+    }
+  }, {
+    key: "checkMobileMode",
+    value: function checkMobileMode(element, elementsToCheck, container, isRecursive) {
+      var _this2 = this;
+
+      var classList = element.classList;
+      var offsetWidth = (container || element).offsetWidth;
+      var currentElementWidth = 0;
+      elementsToCheck.forEach(function (childElement) {
+        currentElementWidth += _this2.getOuterWidth(childElement);
+      });
+
+      if (offsetWidth > 0) {
+        var isActualMobileDevice = element.offsetWidth <= this.mobileBreakPoint;
+        var checkIfNavigationFits = !isRecursive && !isActualMobileDevice && classList.contains('mobile');
+
+        if (checkIfNavigationFits) {
+          classList.remove('mobile');
+          deferFunc(this.checkMobileMode(element, elementsToCheck, container, true));
+        } else {
+          if (currentElementWidth > offsetWidth || isActualMobileDevice) {
+            this.setMobileMode(true, classList);
+          } else if (currentElementWidth <= offsetWidth && !isActualMobileDevice) {
+            this.setMobileMode(false, classList);
+          }
+        }
+      }
+    }
+  }, {
+    key: "setMobileMode",
+    value: function setMobileMode(isMobile, classList) {
+      if (isMobile) {
+        classList.add('mobile');
+      } else {
+        classList.remove('mobile');
+      }
+    }
+  }, {
+    key: "updateProperty",
+    value: function updateProperty(view, property, value) {}
+  }, {
+    key: "dispose",
+    value: function dispose() {}
+  }]);
+
+  return Navigation;
+}();
+
+window.__features = window.__features || {};
+window.__features['navigation'] = Navigation;
+
+},{}]},{},[1])
+
+//# sourceMappingURL=navigation.js.map
+;(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+"use strict";
+
+function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+var FormSubmissionCore =
+/*#__PURE__*/
+function () {
+  function FormSubmissionCore(builderApi) {
+    _classCallCheck(this, FormSubmissionCore);
+
+    this.builderApi = builderApi;
+    this.localStorageHelper = this.builderApi.localStorageHelper;
+    this.isTestMode = window.self !== window.top || !!builderApi.editor;
+    this.useLocalStorage = this.localStorageHelper.supportsLocalStorage && !this.isTestMode;
+    this.promoCodeClass = 'show-promo-code';
+  }
+  /*
+   * Validate Form
+   *
+   * inputs - Dom collection of inputs fields and text areas
+   */
+
+
+  _createClass(FormSubmissionCore, [{
+    key: "validateForm",
+    value: function validateForm(inputs) {
+      var _this = this;
+
+      // Construct an object that contains all the valid and invalid fields.
+      var formData = {
+        data: [],
+        errors: [] // Loop through the inputs checking if they are valid.
+
+      };
+      inputs.forEach(function (input) {
+        var key = input.getAttribute('id');
+        var value = input.value;
+        var translation = input.dataset.namelabel; // Ignore the google captcha
+
+        if (key.includes('g-recaptcha-response')) {
+          return;
+        }
+
+        if (key === 'fieldSubscribe') {
+          value = input.style.display === 'none' || input.checked;
+        }
+
+        if (!_this.isEmpty(value)) {
+          // Check if it's an email.
+          if (key === 'fieldEmail') {
+            var re = /^(([^<>()[\]\\.,;:\s@"]+(\.[^<>()[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+            if (!re.test(String(value).toLowerCase())) {
+              // If it's not a valid email, we push it into the error array.
+              formData.errors.push({
+                key: key
+              });
+              return;
+            }
+          } // Its not empty and is a valid email (if email type), so we can pass this as a valid input field.
+
+
+          formData.data.push({
+            name: translation,
+            field: key,
+            value: value,
+            type: _this.mapInputType(key)
+          });
+        } else {
+          // if its empty we push it to the errors array.
+          formData.errors.push({
+            key: key
+          });
+        }
+      });
+      return formData;
+    }
+  }, {
+    key: "showSuccesMessage",
+    value: function showSuccesMessage(formContainer) {
+      var successElement = formContainer.querySelector('.contact-form-success');
+
+      if (successElement) {
+        successElement.classList.add('show');
+      }
+
+      this.setButtonState(formContainer.querySelector('.button.submit'), this.builderApi.localize('editorTemplates.features.subscription.sent'));
+      formContainer.classList.add(this.promoCodeClass);
+    }
+    /*
+     * Submit Form
+     *
+     * formContainer - is the wrapping element of the form, we use this to make the querySelector more performant
+     * captchaResponse - is the response from the Google Bot checker, if it's reached this far it's been validated
+     */
+
+  }, {
+    key: "submitForm",
+    value: function submitForm(data, formContainer, captchaResponse, e, builderApi) {
+      var _this2 = this;
+
+      var sectionBinding = arguments.length > 5 && arguments[5] !== undefined ? arguments[5] : {};
+      var siteId = window._site && window._site.siteId || '';
+      var partnerId = window._site && window._site.partnerId || 0;
+      var url = '/v1.0/contactform';
+
+      if (partnerId >= 100) {
+        if (builderApi.env.env === 'dev' || builderApi.env.env === 'latest') {
+          url = 'https://hostingapi.latest.mywebsitebuilder.com' + url;
+        } else if (builderApi.env.env === 'qa') {
+          url = 'https://hostingapi.qa.mywebsitebuilder.com' + url;
+        } else if (builderApi.env.env === 'uat') {
+          url = 'https://hostingapi.uat.mywebsitebuilder.com' + url;
+        } else {
+          url = 'https://hostingapi.mywebsitebuilder.com' + url;
+        }
+      }
+
+      var form = formContainer.querySelector('form');
+      var sectionId = formContainer.querySelector('.hidden-form-data').dataset.sectionid; // True for both subscribe and promotion sections
+
+      var isSubscription = !!formContainer.querySelector('[data-type="subscribe"]');
+      var dataObj = {
+        fields: data,
+        site_id: siteId,
+        recaptcha_code: captchaResponse,
+        section_id: sectionId,
+        form_id: sectionId,
+        is_subscription: isSubscription // Set new button state
+
+      };
+      this.setButtonState(e.target, this.builderApi.localize('editorTemplates.features.subscription.sending')); // Send the form and show a success message when the post was successful
+
+      builderApi.fetch(url, {
+        method: 'POST',
+        body: JSON.stringify(dataObj),
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      }).then(function (res) {
+        var successElement = formContainer.querySelector('.contact-form-success');
+        var section = formContainer.closest('section');
+
+        if (successElement) {
+          successElement.classList.add('show');
+        }
+
+        _this2.setButtonState(e.target, _this2.builderApi.localize('editorTemplates.features.subscription.sent'));
+
+        form.reset();
+        form.reset();
+
+        if (sectionBinding.promoCode) {
+          if (_this2.useLocalStorage) {
+            window.localStorage.setItem('showpromo', true);
+          }
+
+          section.classList.add(_this2.promoCodeClass);
+        } else {
+          // OnClick hide the success message
+          successElement.addEventListener('click', function () {
+            successElement.classList.remove('show');
+          });
+        }
+
+        section.classList.add('submitted');
+      }).catch(function () {
+        _this2.setButtonState(e.target, _this2.builderApi.localize('editorTemplates.features.subscription.sendingError'));
+      });
+    }
+    /*
+     * Clear Errors
+     *
+     * inputs - dom collection of the input fields and text areas of the form
+     * formContainer - dom element of the wrapping element of the form, to make querySelectors more performant
+     */
+
+  }, {
+    key: "clearErrors",
+    value: function clearErrors(inputs, formContainer) {
+      var _this3 = this;
+
+      var previousErrorMessage = formContainer.querySelector('.error-captcha-container');
+
+      if (inputs && inputs.length) {
+        inputs.forEach(function (input) {
+          _this3.setErrorStyling(formContainer.querySelector('.' + input.id + '-container'), false);
+        });
+      }
+
+      if (previousErrorMessage) {
+        previousErrorMessage.setAttribute('style', 'display: none');
+      }
+    }
+    /*
+     * Show Errors
+     *
+     * inputs - dom collection of the input fields and text areas of the form
+     * validCaptchaResponse - the response from the google bot detector
+     * formContainer - dom element of the wrapping element of the form, to make querySelectors more performant
+     */
+
+  }, {
+    key: "showErrors",
+    value: function showErrors(errors, formContainer, validCaptchaResponse) {
+      var _this4 = this;
+
+      // Show errors for each input field that wasn't valid
+      if (errors && errors.length) {
+        errors.forEach(function (error) {
+          _this4.setErrorStyling(formContainer.querySelector('.' + error.key + '-container'), true);
+        });
+      } // If the captcha wasn't valid, display an error message and if its the first time the error appears
+      // we build the error container and append it.
+
+
+      if (!validCaptchaResponse) {
+        var previousErrorMessage = formContainer.querySelector('.error-captcha-container');
+
+        if (previousErrorMessage) {
+          previousErrorMessage.setAttribute('style', 'display: block');
+        } else {
+          var captchaContainer = formContainer.querySelector('.captcha-field-wrapper');
+          var errorContainer = document.createElement('div');
+          errorContainer.className = 'error-captcha-container';
+          errorContainer.innerHTML = this.builderApi.localize('editorTemplates.features.subscription.couldNotVerify');
+          captchaContainer.appendChild(errorContainer);
+        }
+      }
+    }
+    /*
+     * Is Empty
+     *
+     * value - input.value that is checked
+     */
+
+  }, {
+    key: "isEmpty",
+    value: function isEmpty(value) {
+      return value === undefined || value === null || _typeof(value) === 'object' && Object.keys(value).length === 0 || typeof value === 'string' && value.trim().length === 0;
+    }
+    /*
+     * Try Render Captcha - see if we should and can render it.
+     *
+     * formContainer - wrapping dom element around the form
+     * controller - WIP
+     */
+
+  }, {
+    key: "tryRenderCaptcha",
+    value: function tryRenderCaptcha(formContainer, controller) {
+      var _this5 = this;
+
+      if (!window.hasCaptcha) {
+        window.captchaInstanceQueue = [];
+
+        window.onCaptchaLoadCallback = function () {
+          window.captchaInstanceQueue.forEach(function (formContainer) {
+            _this5.renderCaptcha(formContainer, controller);
+          });
+        };
+
+        var recaptchaScript = document.createElement('script');
+        recaptchaScript.src = 'https://www.google.com/recaptcha/api.js?onload=onCaptchaLoadCallback';
+        recaptchaScript.setAttribute('async', true);
+        recaptchaScript.setAttribute('defer', true);
+        document.body.appendChild(recaptchaScript);
+        window.hasCaptcha = true;
+      }
+
+      if (window.grecaptcha) {
+        this.renderCaptcha(formContainer, controller);
+      } else {
+        window.captchaInstanceQueue.push(formContainer);
+      }
+    }
+    /*
+     * Render Captcha - render the grecaptcha in our contact form
+     *
+     * formContainer - wrapping dom element around the form
+     * controller - WIP
+     */
+
+  }, {
+    key: "renderCaptcha",
+    value: function renderCaptcha(formContainer, controller) {
+      var wrap = formContainer.querySelector('.captcha-field-wrapper');
+
+      if (window.grecaptcha && wrap && !wrap.querySelector('iframe')) {
+        wrap.innerHTML = '';
+        var widgetId = window.grecaptcha.render(wrap, {
+          sitekey: '6Lewpm8UAAAAAKlR7x35yQOUTW6uJ65zbm96VqiL',
+          callback: window.onCaptchaSubmit
+        });
+        controller._captchaWidgetId = widgetId;
+      }
+    }
+    /*
+     * Validate Captcha - Validate if we have a valid captcha, if not make sure we have one rendered.
+     *
+     * controller - wip
+     * formContainer - Wrapping dom element around the form.
+     */
+
+  }, {
+    key: "validateCaptcha",
+    value: function validateCaptcha(controller, formContainer) {
+      if (!window.grecaptcha) {
+        this.tryRenderCaptcha(formContainer, controller);
+        return false;
+      }
+
+      return window.grecaptcha && window.grecaptcha.getResponse(controller._captchaWidgetId);
+    }
+    /*
+     * Set Error Styling
+     *
+     * inputWrapper - Dom element arround which the input field lives
+     * isError - boolean value - if the input field has an error or not (if not the styling it set to default)
+     */
+
+  }, {
+    key: "setErrorStyling",
+    value: function setErrorStyling(inputWrapper, isError) {
+      if (!inputWrapper) {
+        return;
+      }
+
+      var field = inputWrapper.querySelector('input') || inputWrapper.querySelector('textarea');
+      var errorContainer = inputWrapper.querySelector('.error-container');
+
+      if (field && errorContainer) {
+        if (isError && field) {
+          field.style.cssText = 'border: 3px solid #F44336; border-radius: .25rem; box-sizing: border-box; outline: 0;';
+          errorContainer.innerHTML = this.builderApi.localize('editorTemplates.features.subscription.required');
+        } else {
+          field.style.cssText = '';
+          errorContainer.innerHTML = '';
+        }
+      }
+    }
+    /*
+     * Set Button State
+     *
+     * submitButton - Dom element of the submit button
+     * text - Text to be placed inside the button (e.g - sending, sent, submit)
+     */
+
+  }, {
+    key: "setButtonState",
+    value: function setButtonState(submitButton, text) {
+      if (submitButton) {
+        submitButton.innerHTML = text;
+      }
+    }
+    /*
+     * Map Input Type - the backend requires an interger value to symbolize the type of input
+     *
+     * fieldType - the data-type value of the input field
+     */
+
+  }, {
+    key: "mapInputType",
+    value: function mapInputType(fieldDataType) {
+      var type = 1;
+
+      if (fieldDataType === 'fieldEmail') {
+        type = 3;
+      }
+
+      if (fieldDataType === 'fieldDate') {
+        type = 4;
+      }
+
+      if (fieldDataType === 'fieldPhone') {
+        type = 6;
+      }
+
+      if (fieldDataType === 'fieldFirstName' || fieldDataType === 'fieldlastName') {
+        type = 8;
+      }
+
+      return type;
+    }
+  }]);
+
+  return FormSubmissionCore;
+}();
+
+window.__features = window.__features || {};
+window.__features['form-core'] = FormSubmissionCore;
+
+},{}]},{},[1])
+
+//# sourceMappingURL=form-core.js.map
+;(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+"use strict";
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+var Subscription =
+/*#__PURE__*/
+function () {
+  function Subscription(builderApi, config, dependencies) {
+    _classCallCheck(this, Subscription);
+
+    this.builderApi = builderApi;
+    this.formCore = dependencies['form-core'];
+    this.isForPreview = builderApi.isForPreview;
+    this.isRuntimeSite = !builderApi.editor; // if we dont have an editor it's a runtime site
+  }
+
+  _createClass(Subscription, [{
+    key: "initializeForSection",
+    value: function initializeForSection(contentControl, model, isForPreview) {}
+  }, {
+    key: "updateProperty",
+    value: function updateProperty(contentControl, property, value) {}
+  }, {
+    key: "afterRender",
+    value: function afterRender(contentControl, element, data) {
+      var _this = this;
+
+      var formButton = element.querySelector('form [data-type="button"]');
+      var sectionController = contentControl.controller.parentController;
+
+      if (!this.isForPreview) {
+        if (this.isRuntimeSite) {
+          if (formButton) {
+            formButton.removeAttribute('href');
+            formButton.dataset.href = '';
+            formButton.addEventListener('click', function (e) {
+              _this.handleFormSubmission(e, sectionController, element);
+            }); // Make sure the captcha is ready for this form instance.
+
+            element.addEventListener('click', function () {
+              _this.formCore.tryRenderCaptcha(element, sectionController);
+            });
+          }
+        }
+      }
+    }
+    /*
+     * Handle Form Submission
+     *
+     * event - The onClick event of the submit button
+     * controller - WIP
+     * formContainer - Is the wrapping element of the form, we pass it along for more performant querySelectors
+     */
+
+  }, {
+    key: "handleFormSubmission",
+    value: function handleFormSubmission(event, controller, formContainer) {
+      event.preventDefault();
+
+      if (window.location.hostname === 'localhost') {
+        return;
+      }
+
+      var inputs = formContainer.querySelectorAll('input, textarea'); // Clear the previous state
+
+      this.formCore.clearErrors(inputs, formContainer); // Validate the fields and human verification
+
+      var _this$formCore$valida = this.formCore.validateForm(inputs),
+          data = _this$formCore$valida.data,
+          errors = _this$formCore$valida.errors;
+
+      var captchaResponse = this.formCore.validateCaptcha(controller, formContainer);
+
+      if (errors.length > 0 || !captchaResponse) {
+        // Go through the form errors and make sure the correct fields show an error.
+        this.formCore.showErrors(errors, formContainer, captchaResponse);
+      } else {
+        this.formCore.submitForm(data, formContainer, captchaResponse, event, this.builderApi, controller.model.binding);
+      }
+    }
+  }]);
+
+  return Subscription;
+}();
+
+window.__features = window.__features || {};
+window.__features.subscription = Subscription;
+
+},{}]},{},[1])
+
+//# sourceMappingURL=subscription.js.map
+;(function(){function r(e,n,t){function o(i,f){if(!n[i]){if(!e[i]){var c="function"==typeof require&&require;if(!f&&c)return c(i,!0);if(u)return u(i,!0);var a=new Error("Cannot find module '"+i+"'");throw a.code="MODULE_NOT_FOUND",a}var p=n[i]={exports:{}};e[i][0].call(p.exports,function(r){var n=e[i][1][r];return o(n||r)},p,p.exports,r,e,n,t)}return n[i].exports}for(var u="function"==typeof require&&require,i=0;i<t.length;i++)o(t[i]);return o}return r})()({1:[function(require,module,exports){
+"use strict";
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
+
+function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); return Constructor; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+var Popover =
+/*#__PURE__*/
+function () {
+  function Popover(builderApi, config) {
+    var _this = this;
+
+    _classCallCheck(this, Popover);
+
+    _defineProperty(this, "getUniqueId", function () {
+      return _this.builderApi.getPageUri() + '-' + _this.view.id;
+    });
+
+    _defineProperty(this, "hasShownPopover", function () {
+      if (_this.useLocalStorage) {
+        return window.localStorage.getItem(_this.getUniqueId());
+      }
+
+      return false;
+    });
+
+    this.builderApi = builderApi;
+    this.model = builderApi.controller.model;
+    this.editMode = !!builderApi.editor;
+    this.viewerMode = !this.editMode;
+    this.view = config.view;
+    this.isTestMode = window.self !== window.top || !!builderApi.editor;
+
+    if (this.viewerMode && this.model.showPopover) {
+      this.inPopoverMode = true;
+    }
+
+    this.editorContext = builderApi.controller.editorContext;
+
+    if (this.editMode) {
+      this.setTooltip();
+    }
+
+    this.localStorageHelper = this.builderApi.localStorageHelper;
+    this.useLocalStorage = this.localStorageHelper.supportsLocalStorage && !this.isTestMode;
+  }
+
+  _createClass(Popover, [{
+    key: "dispose",
+    value: function dispose() {}
+  }, {
+    key: "getDisplayTime",
+    value: function getDisplayTime(model) {
+      return parseInt(model.popoverTiming) * 1000 || 0;
+    }
+  }, {
+    key: "rerender",
+    value: function rerender() {
+      this.view.requestRender();
+    }
+  }, {
+    key: "setTooltip",
+    value: function setTooltip() {
+      if (typeof this.model.popoverTiming === 'undefined') {
+        this.model.popoverTiming = 10;
+      }
+
+      var text = '';
+
+      if (this.model.showPopover) {
+        if (this.model.popoverDisplay === 'leaveSite') {
+          text = this.builderApi.localize('editorTemplates.features.popover.tooltip.leaveSite');
+        } else {
+          if (parseInt(this.model.popoverTiming) > 0) {
+            text = this.builderApi.localize('editorTemplates.features.popover.tooltip.afterX').replace('{time}', this.model.popoverTiming);
+          } else {
+            text = this.builderApi.localize('editorTemplates.features.popover.tooltip.immediately');
+          }
+        }
+
+        this.editorContext.setSectionToolTip(this.builderApi.controller.parentController, text);
+      } else {
+        this.editorContext.setSectionToolTip(this.builderApi.controller.parentController, text);
+      }
+    }
+  }, {
+    key: "showModal",
+    value: function showModal(sectionElement) {
+      var _this2 = this;
+
+      this.builderApi.showModal({
+        fullScreen: true,
+        content: sectionElement,
+        closeButton: sectionElement.querySelector('.feature-modal-close-button'),
+        onClose: this.model.promoCode ? function (element) {
+          // Put section element back to its initial location in the page
+          _this2.nextSectionElement.parentElement.insertBefore(sectionElement, _this2.nextSectionElement);
+
+          sectionElement.classList.remove('popover-mode');
+        } : null
+      });
+
+      if (this.mouseLeaveListener) {
+        document.body.removeEventListener('mouseleave', this.mouseLeaveListener);
+      }
+
+      if (this.localStorageHelper.supportsLocalStorage && !this.isTestMode) {
+        window.localStorage.setItem(this.getUniqueId(), true);
+      }
+    }
+  }, {
+    key: "initializeForSection",
+    // triggered once per section
+    value: function initializeForSection(contentControl, model, isForPreview) {
+      var _this3 = this;
+
+      if (this.inPopoverMode) {
+        var sectionElement = contentControl.domElement.parentElement.parentElement;
+        this.nextSectionElement = sectionElement.nextElementSibling; // Show popover when not shown yet (state is stored in local storage)
+
+        if (!this.hasShownPopover()) {
+          sectionElement.classList.add('popover-mode');
+
+          if (model.popoverDisplay === 'leaveSite') {
+            setTimeout(function () {
+              _this3.mouseLeaveListener = function () {
+                return _this3.showModal(sectionElement);
+              };
+
+              _this3.listener = document.body.addEventListener('mouseleave', _this3.mouseLeaveListener);
+            }, 3000);
+          } else {
+            var time = this.getDisplayTime(model);
+            setTimeout(function () {
+              _this3.showModal(sectionElement);
+            }, time);
+          }
+        } else if (this.hasShownPopover() && model.promoCode) {
+          // Always show promotion sections with the code if they've been filled in
+          if (this.useLocalStorage && window.localStorage.getItem('showpromo')) {
+            this.view.features.subscription.formCore.showSuccesMessage(sectionElement);
+          } else {
+            sectionElement.style.display = 'none';
+          }
+        } else if (this.hasShownPopover()) {
+          // Hide popovers that have already been shown once
+          sectionElement.style.display = 'none';
+        }
+      }
+    } // this is called when a property is changed and we need to re-render, return true if we can resolve it
+
+  }, {
+    key: "updateProperty",
+    value: function updateProperty(contentControl, property, value) {
+      console.log('updateProperty', contentControl, property, value);
+      this.setTooltip();
+      return false;
+    } // return something, the object that is returned is used as binding for handlebars
+
+  }, {
+    key: "getRenderModel",
+    value: function getRenderModel(contentControl, binding) {} // called after a re-render
+
+  }, {
+    key: "afterRender",
+    value: function afterRender(contentControl, element, data) {}
+  }]);
+
+  return Popover;
+}();
+
+window.__features = window.__features || {};
+window.__features.popover = Popover;
+
+},{}]},{},[1])
+
+//# sourceMappingURL=popover.js.map
+; window._featureSettings={"navigation":{"settings":{}},"form-core":{"settings":{}},"translations":{"editorTemplates.features.subscription.couldNotVerify":"Não foi possível verificar se você é um humano","editorTemplates.features.subscription.sent":"Enviado!","editorTemplates.features.subscription.sending":"Enviando...","editorTemplates.features.subscription.sendingError":"Erro no envio","editorTemplates.features.subscription.required":"Este campo é obrigatório.","editorTemplates.features.subscription.subscribe":"Ao marcar esta caixa e enviar suas informações, você está nos dando permissão de lhe enviar e-mails. Você pode cancelar a qualquer momento.","editorTemplates.features.subscription.subscribeToggle":"Ao selecionar esta caixa e enviar seus dados, você nos autoriza a te enviar e-mails. Você pode cancelar a qualquer momento."},"subscription":{"settings":{"dependingGlobalFeatures":["form-core"]}},"popover":{"settings":{}}};
